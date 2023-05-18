@@ -24,5 +24,5 @@ streamlit run app.py
 
 3. You can filter the recommended movies based on genre, director, and rating.
 ### Data Source
-The movie database used in this project is the MovieLens dataset. It contains over 100,000 movies and ratings from users. 
+The movie database used in this project is the MovieLens dataset. It contains over 100,000 movies and ratings from users
 
